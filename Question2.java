@@ -4,8 +4,13 @@
 		editFile("Dest.txt");
 		imgCopy("Source.jpg", "Dest.jpg");
 	}
+<<<<<<< HEAD
 	classB{
 		editFile(String)
 		{
 	}
 }
+=======
+}
+txtCopy(){}
+>>>>>>> 42fefeeb4a199a32311d4b9e4ef8a93c790885c6
