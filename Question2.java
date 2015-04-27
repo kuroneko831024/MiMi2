@@ -4,4 +4,8 @@
 		editFile("Dest.txt");
 		imgCopy("Source.jpg", "Dest.jpg");
 	}
+	classB{
+		editFile(String)
+		{
+	}
 }
