@@ -5,4 +5,4 @@
 		imgCopy("Source.jpg", "Dest.jpg");
 	}
 }
-txtCopy()
+txtCopy(){}
